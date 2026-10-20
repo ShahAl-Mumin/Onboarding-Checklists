@@ -1,5 +1,3 @@
-![From offer to day one: free UK onboarding checklists](banner.png)
-
 # Right to Work Check (UK): Process Checklist
 
 A step-by-step guide to running a right to work check, from choosing the route to recording the outcome. Written for HR teams and hiring managers in UK organisations.
