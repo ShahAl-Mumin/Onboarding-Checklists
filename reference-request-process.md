@@ -1,5 +1,3 @@
-![From offer to day one: free UK onboarding checklists](banner.png)
-
 # Reference Request Process (UK)
 
 A step-by-step process for requesting, chasing, checking and recording employment references, with ready-to-use templates. Written for HR teams and hiring managers in UK organisations.
