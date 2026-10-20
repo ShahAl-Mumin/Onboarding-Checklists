@@ -109,3 +109,5 @@ Hiring managers need to know that the check is complete, not the person's docume
 - [Check a job applicant's right to work: step by step](https://www.gov.uk/check-job-applicant-right-to-work)
 - [View a job applicant's right to work details (share code)](https://www.gov.uk/view-right-to-work)
 - The Home Office "Employer's guide to right to work checks" and "Code of practice on preventing illegal working", both on GOV.UK. Use the current version.
+
+Created by Shah Al-Mumin
