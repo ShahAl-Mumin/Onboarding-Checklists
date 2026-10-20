@@ -141,3 +141,5 @@ Use simple statuses: **not required**, **in progress**, **complete**. Keep docum
 - Your sector's employment check standards (for example NHS Employers for NHS roles)
 - The Equality and Human Rights Commission guidance on health questions in recruitment
 - The Home Office guidance on right to work checks, linked from the [right to work checklist](right-to-work-check.md)
+
+Created by Shah Al-Mumin
