@@ -1,5 +1,3 @@
-![From offer to day one: free UK onboarding checklists](banner.png)
-
 # Pre-Employment Checks: Overview (UK)
 
 A plain-English overview of the checks UK employers commonly run before a new starter begins, how to decide which ones a role needs, and how to run them in a sensible order. Written for HR teams and hiring managers.
