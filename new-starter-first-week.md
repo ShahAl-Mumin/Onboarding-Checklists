@@ -89,3 +89,5 @@ A practical checklist for making a new starter's first week calm, organised and 
 2. **One owner per task,** with a due date.
 3. **Share status, not sensitive detail.** Say that a check is complete, not what it found.
 4. **Ask for feedback while the experience is fresh.**
+
+Created by Shah Al-Mumin
