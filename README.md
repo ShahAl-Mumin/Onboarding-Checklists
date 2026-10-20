@@ -1,5 +1,3 @@
-![From offer to day one: free UK onboarding checklists](banner.png)
-
 # Onboarding Checklists
 
 Free, practical onboarding checklists for UK HR teams, written from eight years of HR experience across the NHS, Civil Service, Higher Education and the non-profit sector.
