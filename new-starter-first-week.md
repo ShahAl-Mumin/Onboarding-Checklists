@@ -1,5 +1,3 @@
-![From offer to day one: free UK onboarding checklists](banner.png)
-
 # New Starter: First Week Checklist
 
 A practical checklist for making a new starter's first week calm, organised and welcoming. Written for HR teams, hiring managers, IT and L&D in UK organisations. Copy it, adapt it and make it yours.
